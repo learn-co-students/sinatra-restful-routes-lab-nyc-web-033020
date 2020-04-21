@@ -1,0 +1,16 @@
+current directory: /home/mishy/Code/Flatiron/mod2/labs/sinatra/13-sinatra-rest/vendor/bundle/ruby/2.6.0/gems/bond-0.5.1/ext/readline_line_buffer
+/usr/bin/ruby -I /usr/share/rubygems -r ./siteconf20200421-5711-13cmyxf.rb extconf.rb
+
+current directory: /home/mishy/Code/Flatiron/mod2/labs/sinatra/13-sinatra-rest/vendor/bundle/ruby/2.6.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR=" clean
+make: *** No rule to make target 'clean'.  Stop.
+
+current directory: /home/mishy/Code/Flatiron/mod2/labs/sinatra/13-sinatra-rest/vendor/bundle/ruby/2.6.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR="
+echo "This is a dummy extension"
+This is a dummy extension
+
+current directory: /home/mishy/Code/Flatiron/mod2/labs/sinatra/13-sinatra-rest/vendor/bundle/ruby/2.6.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR=" install
+echo "This is a dummy extension"
+This is a dummy extension
