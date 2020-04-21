@@ -1,0 +1,14 @@
+current directory: /home/mishy/Code/Flatiron/mod2/labs/sinatra/13-sinatra-rest/vendor/bundle/ruby/2.6.0/gems/json-1.8.6/ext/json
+/usr/bin/ruby -I /usr/share/rubygems -r ./siteconf20200421-5711-1hgz81x.rb extconf.rb
+creating Makefile
+
+current directory: /home/mishy/Code/Flatiron/mod2/labs/sinatra/13-sinatra-rest/vendor/bundle/ruby/2.6.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+rm -f  *.o  *.bak mkmf.log .*.time
+
+current directory: /home/mishy/Code/Flatiron/mod2/labs/sinatra/13-sinatra-rest/vendor/bundle/ruby/2.6.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/mishy/Code/Flatiron/mod2/labs/sinatra/13-sinatra-rest/vendor/bundle/ruby/2.6.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
