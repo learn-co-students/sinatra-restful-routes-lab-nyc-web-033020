@@ -1,0 +1,8 @@
+<h1>All Recipes (Index Page)</h1>
+
+  <% @recipes.each do |recipe| %>
+   Recipe name: <%= recipe.name%><br>
+   Recipe ingredients: <%= recipe.ingredients%><br>
+   Recipe cook time: <%= recipe.cook_time%><br>
+
+  <% end %>
